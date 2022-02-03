@@ -127,37 +127,37 @@ tc.from("h3#logo",{
 })
 .from("#v5",{
     width:0,
-    duration:.5
+    duration:0.5
 
 })
 .from("#v4",{
     height:0,
-    duration:.5
+    duration:0.5
 
 })
 .from("#v3",{
     width:0,
-    duration:.5
+    duration:0.5
 
 })
 .from("#v2",{
     width:0,
-    duration:.5
+    duration:0.5
 
 })
 .from("#v6",{
     width:0,
-    duration:.5
+    duration:0.5
 
 })
 .from("#v7",{
     height:0,
-    duration:.5
+    duration:0.5
 
 })
 .from("#ovlay",{
     opacity:0,
-    duration:.5
+    duration:0.5
 })
 
 setTimeout(function(){
